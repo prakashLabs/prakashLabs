@@ -1,4 +1,4 @@
-Hi 👋 My name is Prakash Jaiswal
+Hi 👋 i'm Prakash Jaiswal
 ================================
 
 Full Stack Developer | AI Builder | AWS & Google Cloud Enthusiast
