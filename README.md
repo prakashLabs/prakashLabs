@@ -1,7 +1,3 @@
-REORDER SECTIONS
-PREVIEW
-MARKDOWN
-COPY
 Hi 👋 My name is Prakash Jaiswal
 ================================
 
