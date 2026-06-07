@@ -8,7 +8,7 @@ Full Stack Developer from India. Passionate about web development, AI, SaaS prod
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [prakashjaiswl0@gmail.com](mailto:prakashjaiswl0@gmail.com)
-* 🧠  I'm currently learning AI Engineering, Web3, Cloud Computing, and System Design
+* 🧠  Exploring AI Engineering, Web3, Cloud Computing, and System Design
 * 👥  I'm looking to collaborate on AI Projects, SaaS Products, Open Source, and Startup Ideas
 
 <p align="left">
